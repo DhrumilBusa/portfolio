@@ -425,7 +425,7 @@ noscript {
 
 .face,
 .logo-top {
-    width: 100%;
+    width: 120%;
     align-items: center;
     display: flex
 }
@@ -458,7 +458,7 @@ noscript {
 }
 
 .popup {
-    animation: 3s linear pop-up
+    animation: 5s linear pop-up
 }
 
 @keyframes pop-up {
